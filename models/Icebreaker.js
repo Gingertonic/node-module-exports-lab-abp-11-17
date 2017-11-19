@@ -1,5 +1,5 @@
 'use strict';
-module.require = ('./Question.js')
+const require = ('./Question.js')
 
 class Icebreaker{
   question(){
