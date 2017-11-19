@@ -1,5 +1,5 @@
 'use strict';
-const require = ('./Question.js')
+const question = require ('./Question.js')
 
 class Icebreaker{
   question(){
